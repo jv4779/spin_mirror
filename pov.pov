@@ -7,7 +7,7 @@
 #include "metals.inc"
 #include "woods.inc"     
 
-#include "t.inc"                   
+#include "jv4779_pov.inc"                   
 
 global_settings {
     assumed_gamma 1.0
